@@ -1,8 +1,8 @@
-# Deep Learning From First Principles 🚀
+# Deep Learning From First Principles 
 
 This repository documents my journey of learning **Deep Learning from first principles** by implementing the core concepts from scratch before relying on high-level frameworks. The objective is to understand *how* neural networks work internally rather than treating them as black boxes.
 
-## 🎯 Goal
+## Goal
 
 Build an intuitive and practical understanding of deep learning by implementing:
 
@@ -18,7 +18,7 @@ using **NumPy first**, followed by **PyTorch**.
 
 ---
 
-### ✅ Day 1 — Environment Setup & Single Neuron
+### Day 1 — Environment Setup & Single Neuron
 
 * Set up the development environment (Python, NumPy, Pandas, Jupyter/Colab, Git, GitHub).
 * Refreshed essential linear algebra concepts (vectors, matrices, dot products).
@@ -31,7 +31,7 @@ using **NumPy first**, followed by **PyTorch**.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * Python
 * NumPy
